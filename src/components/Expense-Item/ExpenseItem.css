@@ -1,0 +1,49 @@
+.expense-item-row {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* width: 100%; */
+  border-radius: 10px;
+  border-color: 20px solid rgb(240, 238, 238);
+  background-color: rgb(73, 73, 73);
+  margin-top: 1%;
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-right: 10%;
+  box-shadow: 0 3px 10px #424d4f;
+  height: 60px;
+
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+table {
+  width: 90%;
+  /* margin: 0 auto; */
+  color: aliceblue;
+  table-layout: fixed;
+}
+
+.amount-div {
+  background-color: #4a2072;
+  border-radius: 12px;
+  width: 50%;
+  height: 34px;
+  text-align: center;
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.amount-div-td {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.td-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
